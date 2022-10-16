@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-HelloApplication",
+      "appliesTo": "src/main/java/com/example/gasproject/HelloApplication.java",
+      "type": "launch"
+    }
+  ]
+}
